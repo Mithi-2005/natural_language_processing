@@ -1,4 +1,6 @@
 nltk
 numpy
+pandas
 ipykernel
+scikit-learn
 svgling
